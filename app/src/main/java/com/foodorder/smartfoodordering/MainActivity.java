@@ -30,7 +30,7 @@ import com.google.firebase.auth.GoogleAuthProvider;
 public class MainActivity extends AppCompatActivity {
 
     private FirebaseAuth mAuth;
-    private final String TAG = "MainActivity";
+    private final String TAG = "MainActivity1";
     private int RC_SIGN_IN = 101;
     private GoogleSignInClient mGoogleSignInClient;
     private GoogleSignInOptions gso;
